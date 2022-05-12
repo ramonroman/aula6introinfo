@@ -1,0 +1,17 @@
+Principais comandos Git
+
+git ini - Inicializa o repositório local
+
+git config user.name - Define o nome do usuário do Github
+git config user.mail - define o e-mail de usuário do Github
+
+git commit -m - Envia um commit com comentário
+
+git add . - envia todos os arquivos não sincronizados
+
+git push origin main - envia os arquivos para o repositório on-line.
+
+git clone http://....git  clona o repositório de acordo com o link.
+
+git remote add http://....git sincroniza o repositório local com o online.
+
